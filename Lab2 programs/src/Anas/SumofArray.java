@@ -1,3 +1,4 @@
+package Anas;
 
 public class SumofArray {
 public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package Anas;
 import java.util.Scanner;
 public class whileloop {
 public static void main(String[] args) {

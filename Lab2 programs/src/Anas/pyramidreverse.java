@@ -1,3 +1,4 @@
+package Anas;
 
 public class pyramidreverse {
 public static void main(String[] args) {

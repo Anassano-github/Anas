@@ -1,3 +1,4 @@
+package Anas;
 
 public class Nestedswitchcase {
 public static void main(String[] args) {

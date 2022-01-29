@@ -1,3 +1,4 @@
+package Anas;
 import java.util.Scanner;
 public class PrimeorNot {
 public static void main(String[] args) {
